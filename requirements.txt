@@ -1,0 +1,4 @@
+python-telegram-bot[webhooks]==20.6
+instaloader>=4.11
+aiohttp==3.9.1
+yt-dlp>=2024.10.7
